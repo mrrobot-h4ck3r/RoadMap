@@ -249,6 +249,7 @@
 | Tool | Purpose | Link |
 |------|---------|------|
 | Subfinder | Subdomain enumeration | [GitHub](https://github.com/projectdiscovery/subfinder) |
+|httpx | sudo apt install httpx-toolkit| [Kali](https://www.kali.org/tools/httpx-toolkit/) |
 | Assetfinder | Subdomain tool | [GitHub](https://github.com/tomnomnom/assetfinder) |
 | Gau | URLs from Wayback Machine | [GitHub](https://github.com/lc/gau) |
 | Katana | Crawl JS files | [GitHub](https://github.com/projectdiscovery/katana) |
