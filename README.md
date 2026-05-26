@@ -3,7 +3,7 @@
 ## From Absolute Beginner to Bug Bounty Ready
 
 **Created by:** mrrobot_h4ck3r  
-**Format:** GitHub Markdown Ready
+
 
 ---
 
